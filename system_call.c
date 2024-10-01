@@ -12,10 +12,14 @@
 #include <stdio.h>
 
 /**
+ * print texte "processus 1"
+ * attendre 10 sec
+ * print texte "processus 3"
+ * attendre 5 sec
+ * print texte "processus 5"
  * 
- *
- *
- *
+ * printf "nouvelle ligne, "terminé", nouvelle ligne"
+ * 
  * @return     0 
  */
 int main() {
